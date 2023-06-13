@@ -99,6 +99,7 @@
         <input
           class="input input--block"
           type="password"
+          autocomplete="new-password"
           v-model.trim="password"
         />
       </div>
